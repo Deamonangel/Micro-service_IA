@@ -11,4 +11,4 @@
 * Number of round to win
 * Hit area
 
-https://colab.research.google.com/drive/1f2SIw03rJUlO26NwfWl7P0NZdduWn0YA#scrollTo=37desz6-4XLk 
+https://colab.research.google.com/drive/1f2SIw03rJUlO26NwfWl7P0NZdduWn0YA#scrollTo=BIoRUBbDyC3X
