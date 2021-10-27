@@ -40,3 +40,5 @@ scikit-learn>=0.18
 ipython[all]>=3.2.0
 pyzmq>=14.7.0
 Pillow>=2.9.0
+blinker==1.4
+paho-mqtt==1.6.1
