@@ -1,7 +1,7 @@
 # write the file
-$ pip freeze > requirements.txt
+# $ pip freeze > requirements.txt
 # show the file's contents
-$ cat requirements.txt
+# $ cat requirements.txt
 
 certifi==2018.10.15
 chardet==3.0.4
